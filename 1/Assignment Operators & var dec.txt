@@ -1,0 +1,23 @@
+Assignment Operators
+--------------------
+
+=
+
++=
+
+-=
+
+*=
+
+/=
+
+%=
+
+------------------------------
+Variables Declaration
+----------------------
+
+DataType  name  = data 
+
+
+
